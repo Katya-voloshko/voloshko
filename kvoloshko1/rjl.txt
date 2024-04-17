@@ -1,0 +1,80 @@
+<div>
+    <h2>Каталог</h2>
+    <ul> 
+<li>Свічки</li>
+<li>Підставки</li>
+<li>Скриньки</li>
+<li>Кашпо</li>
+    </ul>
+ </div>
+<div>
+<h2 >Загальна інформація</h2>
+<table  border="1" >
+    <tr>
+        <th>Товар</th>
+        <th>Ціна, грн</th>
+        <th>Розмір</th>
+        <th>Наявність</th>
+    </tr>
+    <tr>
+        <td>Свічки</td>
+        <td>50</td>
+        <td>15х5х5</td>
+        <td rowspan="4">У наявності</td>
+    </tr>
+    <tr>
+        <td>Підставки</td>
+        <td>50</td>
+        <td>15х10х2</td>
+    </tr>
+    <tr>
+        <td>Скриньки</td>
+        <td>100</td>
+        <td>10х10х10</td>
+    </tr>
+    <tr>
+        <td>Кашпо</td>
+        <td>50</td>
+        <td>5х5х5</td>
+    </tr>
+</table>
+</div>
+<div>
+<h2>Характеристики товарів</h2>
+<table border="2">
+    <tr>
+        <th></th>
+        <th>Матеріал</th>
+        <th>Фото</th>
+    </tr>
+    <tr>
+        <td>Свічки</td>
+        <td>Віск</td>
+        <td><img src="img/свічка.jpg" alt="foto" width="100"></td>
+    </tr>
+    <tr>
+        <td>Підставки</td>
+        <td>Гіпс</td>
+        <td><img src="img/підставка.webp" alt="foto" width="100"></td>
+    </tr>
+    <tr>
+      <td>Скриньки</td>
+      <td>Гіпс</td>
+      <td><img src="img/скринька.jpg" alt="foto" width="100"></td>
+    </tr>
+    <tr>
+        <td>Кашпо</td>
+        <td>Гіпс</td>
+        <td><img src="img/кашпо.jpg" alt="foto" width="100"></td>
+    </tr>
+
+</table>
+ </div>
+
+   <ul>
+            <a href="svihka.html" target="_blank">Свічки</a></li>
+            <li><a href="pidstavku.html" target="_blank">Підставки</a></li>
+            <li><a href="skrunku.html" target="_blank">Скриньки</a></li>
+            <li><a href="kashpo.html" target="_blank">Кашпо</a></li>
+        </ul>
+    </div>

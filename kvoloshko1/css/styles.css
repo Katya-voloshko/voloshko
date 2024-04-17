@@ -1,0 +1,174 @@
+body{
+    background-color: #c0c0c0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Verdana;}
+a{
+    color: black;}
+.mpp{
+    margin-top: 5px; }
+.mu{
+    background-color: #a9a9a9;
+    margin-top: 5px;}
+.menyu{
+    margin-top: 10px;
+    background-color: darkgrey;
+    display: flex;
+    flex-direction: row;}
+.gol{
+    margin-left: 30px;
+    margin-right: 40px;
+}
+.kt,.pn,.g,.bl,.zam,.k, .dod {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.zat{
+    margin-top: 8px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.posh {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.korz {
+    margin-top: 8px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container {
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;}
+.ph-container {
+    margin-right: 10px;}
+.container img {
+    margin-bottom: 10px;}
+.tu-container {
+    display: flex;
+    flex-direction: column;}
+.text {
+    flex: 1;
+    margin-left: 10px;
+    order: 1;}
+.strong{
+margin-top: 10px;
+background-color: darkgrey;
+}
+.npr {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.npr2, .nliv, .nliv2 {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.info{margin-top: 10px;
+    background-color: darkgrey;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.npr2t1, .npr2t2, .npr2t3, .npr2t4, 
+.nlivt1, .nlivt2, .nlivt3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-decoration: underline;
+}
+.nliv2t1, .nliv2t2, .nliv2t3{
+margin-top: 5px;
+    margin-bottom: 5px;
+}
+.nprt1{
+margin-top: 30px;
+}
+.nprt2{
+margin-top: 10px;
+margin-bottom: 5px;
+}
+.nprt3{ 
+margin-top: 10px;
+margin-bottom: 5px;
+}
+.nprz1{
+    margin-top: 10px;
+
+}
+.nliv2z1{
+    margin-top: 10px;
+}
+.npr2z1, .nlivz1{
+    margin-left: 6px;
+    margin-top: 10px;
+}
+.btn{
+color: black;
+    background-color: darkgrey;
+    border: 1px solid darkgrey;
+    text-decoration: underline;
+    font-size: 16px;
+}
+.dropbtn {
+    background-color: darkgrey;
+    color: #000000;
+    padding: 14px;
+    font-size: 19px;
+    border: none;
+    text-decoration: underline;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #c0c0c0;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #f1f1f1;
+}
+
+table{
+margin-top: 20px;
+margin-left: 200px;
+}
